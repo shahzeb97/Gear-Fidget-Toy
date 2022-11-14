@@ -1,0 +1,15 @@
+UI For Procedural Gear
+
+Minimum Viable Product
+----------------------
+Slider for N Teeth
+Slider for Pitch
+Slider for Pressure Angle
+Slider for Thickness
+Slider for Zoom
+Button to Spin about axis
+Button to Stop and Return to Home
+
+Nice to Have
+------------
+Change the Material
